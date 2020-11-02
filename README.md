@@ -13,3 +13,8 @@ Burger King Picture
 
 Coca-Cola Picture
 ![decines-france-june-coca-cola-logo-cart-carbonated-soft-drink-produced-company-atlanta-georgia-159935918](https://user-images.githubusercontent.com/69880066/97819971-cf94b680-1c60-11eb-811c-3a7f51b1d2fd.jpg)
+
+
+
+
+[Week6_Stewart and Kamins_Evaluating Secondary Sources (2).pdf](https://github.com/nishan25/Jack/files/5472192/Week6_Stewart.and.Kamins_Evaluating.Secondary.Sources.2.pdf)
