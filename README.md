@@ -1,4 +1,5 @@
 # Jack
+# Michael
 
 I am king of the world 
 
@@ -14,6 +15,9 @@ Burger King Picture
 Coca-Cola Picture
 ![decines-france-june-coca-cola-logo-cart-carbonated-soft-drink-produced-company-atlanta-georgia-159935918](https://user-images.githubusercontent.com/69880066/97819971-cf94b680-1c60-11eb-811c-3a7f51b1d2fd.jpg)
 
+Jackie Chan
+
+![Machine learning AI](https://user-images.githubusercontent.com/69880066/117553328-bf8dd300-b005-11eb-8982-ce1344388b54.jpeg)
 
 
 
